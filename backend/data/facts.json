@@ -1,0 +1,14 @@
+{
+    "full_name": "Mike Malloy",
+    "name": "Mike",
+    "current_role": "Your Current Role",
+    "location": "Menlo Park, CA",
+    "email": "mike.malloy.2004@gmail.com",
+    "linkedin": "linkedin.com/in/mikemalloy",
+    "specialties": [
+      "Chef",
+      "AI",
+      "RAG"
+    ],
+    "years_experience": [5,10,1]
+  }

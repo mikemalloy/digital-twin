@@ -1,0 +1,6 @@
+I am a technology professional with over 25 years of experience in software development. I also have 4 years experience as a Michelin chef. 
+My tech experience includes software development, testing, and product management. My formal cooking training is in French cuisine.
+
+Currently, I'm focused on becoming current on AI technologies and continuing to cook comfort foods. I'm concentrating mostly on backend technolgies but also getting experience with gradio, streamlit and Next.js frontends.
+
+My background includes enterprise software, APIs, data integration.
