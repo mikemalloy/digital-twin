@@ -66,17 +66,3 @@ jobs:
       - name: Destruction Complete
         run: |
           echo "✅ Environment ${{ github.event.inputs.environment }} has been destroyed!"
-
-Step 4: Commit and Push All Changes
-
-# Add all changes (workflows, backend.tf, updated scripts)
-git add .
-
-# See what's being committed
-git status
-
-# Commit
-git commit -m "Add CI/CD with GitHub Actions, S3 backend, and updated scripts"
-
-# Push to GitHub
-git push
